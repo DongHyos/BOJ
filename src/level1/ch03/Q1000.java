@@ -1,13 +1,14 @@
-package level1.ch04;
+package level1.ch03;
 
 import java.util.Scanner;
 
-public class A_Minus_B {
+public class Q1000 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         int A = sc.nextInt();
         int B = sc.nextInt();
 
-        System.out.println(A - B);
+        System.out.println(A+B);
     }
 }

@@ -2,7 +2,7 @@ package level1.ch06;
 
 import java.util.Scanner;
 
-public class ADivideB {
+public class Q1008 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
